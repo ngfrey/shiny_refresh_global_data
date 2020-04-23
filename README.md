@@ -1,7 +1,7 @@
-Untitled
+Experimenting with Ideas
 ================
-Nathan Frey
-4/23/2020
+Using a Large, Self-Updating Data File Sourced in Global.R Across
+Multiple Sessions
 
 ## R Markdown
 
